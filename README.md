@@ -10,6 +10,5 @@ Required Features:
 
 
 Added Features
-- Filter by stars
-- Filter by Language
+- Settings (filter by star and language) that persists
 - Added details shown in list results
