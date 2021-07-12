@@ -1,0 +1,42 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - Alamofire (5.4.1)
+  - GradientLoadingBar (2.1.1):
+    - LightweightObservable (~> 2.1)
+  - LightweightObservable (2.1.2)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Alamofire
+  - GradientLoadingBar (~> 2.0)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - Alamofire
+    - GradientLoadingBar
+    - LightweightObservable
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  GradientLoadingBar: d7ad91e4f15be604faca463efd63e541b5118dee
+  LightweightObservable: c5ac85423a5edbed9a920b4d5c7b8f94ab3688c4
+
+PODFILE CHECKSUM: 55f7463863018e761d81e211b75d6ec68b8b6497
+
+COCOAPODS: 1.10.0
